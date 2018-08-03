@@ -1,0 +1,30 @@
+#+TITLE: blockchain
+#+STARTUP: align
+
+* Permissionless vs Permissioned
+** Permissionless
+*** BitCoin, Etherium etc.
+*** ICOs are looking to create an economic system built on the principles of decentralization, open governance (or self-governance), and transparency, a system that rewards innovation and eradicates disintermediation.
+*** Anyone can join the network
+*** Use proof of work (PoW) etc. consensus
+** Permissioned
+*** Regulated, conventional and enterprise business networks
+*** Network peers have to be authenticated and authorized
+
+* Blockchain framework building blocks
+** Core
+*** A shared ledger
+**** appends the distributed transaction record only
+**** user data keeps in distributed SQL or noSQL database for data compliance (not shared)
+*** Cryptography
+*** Trust systems or consensus
+*** Business rules or small contracts
+** Additional
+*** Auditing and logging
+*** Enterprise integration
+**** Integration with incumbent Systems of Record (SoR)
+**** Integration as a transaction processing system
+**** Design with the intent to include Blockchain
+*** Monitoring
+*** Reporting and regulatory requirements
+*** Enterprise authentication, authorization, and accounting requirements
