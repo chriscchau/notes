@@ -28,3 +28,8 @@
 *** Monitoring
 *** Reporting and regulatory requirements
 *** Enterprise authentication, authorization, and accounting requirements
+
+* Applications would Benefit from Blockchain
+** Applications that adhere to trade, trust, and ownership
+** Applications that are fundamentally transactional in nature
+** Business networks that are comprised of non-monopolistic participants
